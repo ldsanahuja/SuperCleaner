@@ -1,0 +1,4 @@
+D:\Projectes\SuperCleaner\SuperCleaner\bin\Debug\SuperCleaner.exe
+D:\Projectes\SuperCleaner\SuperCleaner\bin\Debug\SuperCleaner.pdb
+D:\Projectes\SuperCleaner\SuperCleaner\obj\Debug\SuperCleaner.exe
+D:\Projectes\SuperCleaner\SuperCleaner\obj\Debug\SuperCleaner.pdb
